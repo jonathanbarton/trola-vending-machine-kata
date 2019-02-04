@@ -6,7 +6,7 @@ inventory, and dispense products.  All the things that you might expect a vendin
 
 The point of this kata to to provide a larger than trivial exercise that can be used to evaluate your ability to create a more complete solution to a set of problems. You should spend no more than a few hours doing this exercise. 
 
-The solution below assumes a UI based solution. The technologies 
+The solution below assumes a UI based solution. The technologies you use can be anything as long as the code is viewable from the repository link that you submit.
 
 Setup
 ========
