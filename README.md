@@ -6,6 +6,8 @@ inventory, and dispense products.  All the things that you might expect a vendin
 
 The point of this kata to to provide a larger than trivial exercise that can be used to evaluate your ability to create a more complete solution to a set of problems. You should spend no more than a few hours doing this exercise. 
 
+The solution below assumes a UI based solution. The technologies 
+
 Setup
 ========
 
@@ -40,6 +42,9 @@ _I want customers to select items_
 _So that I can give them an incentive to put money in the machine_
 
 - The machine shows a list of items with their price and remaining inventory.
+- The machine shows the following items: Coke, Sprite, Ice Tea.
+- Each item is worth 50 cents.
+- You can only select a single item at a time.
 
 ### Dispense Item
 
